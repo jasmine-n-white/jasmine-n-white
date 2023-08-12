@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jasmine (@jazzym0n)
 - 👀 I’m interested in learning how to code as I expand my hobbies and interests 
 - 🌱 I’m currently learning JavaScript and C#
-- 📫 How to reach me - Twitter: @jasmine_white00
+- 📫 How to reach me - Twitter: @jasmine_w_music
 
 <!---
 jazzym0n/jazzym0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
