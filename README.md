@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jasmine (@jazzym0n)
 - 👀 I’m interested in learning how to code as I expand my hobbies and interests 
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me - Twitter: @jasmine_w_music
 
 <!---
