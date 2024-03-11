@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jasmine (@jazzym0n)
+- 👋 Hi, I’m Jasmine (@jasmine-n-white)
 - 👀 I’m interested in learning how to code as I expand my hobbies and interests 
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me - Twitter: @jasmine_w_music
